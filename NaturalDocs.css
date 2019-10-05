@@ -143,9 +143,9 @@ p {
         margin: 0 5ex 1.5em 5ex }
 
     .CFunction .CPrototype {
-        background-color: #F4F4F4; border-color: #D0D0D0 }
+        background-color: rgba(231, 231, 231, 0.63)}
     .CVariable .CPrototype {
-        background-color: #FFFFF0; border-color: #E0E0A0 }
+        background-color: rgba(231, 231, 231, 0.63) }
 
     .CHeading {
         font-weight: normal; font-size: 10pt;
@@ -187,7 +187,7 @@ p {
 
     .SBorder {
         width: 100%;  /*  IE 5 needs this.  */
-        background-color: lightgray/*rgba(58, 110, 146, 0.233)*/;
+        background-color: rgba(231, 231, 231, 0.63)/*rgba(58, 110, 146, 0.233)*/;
         padding: 15px;
         border: 1px solid #557A95 }
 
@@ -201,7 +201,7 @@ p {
 
 
     .SMarked {
-        background-color: rgba(169, 169, 169, 0.4) }
+        background-color: rgb(233, 233, 233) }
 
 
     .SEntry .SInClass,
